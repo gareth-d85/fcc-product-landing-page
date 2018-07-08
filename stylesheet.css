@@ -1,5 +1,15 @@
-.group:after {
-    content: "";
-    display: table;
-    clear: both;
+.hero {
+    background: url(/img/jason-blackeye-295313-unsplash.jpg);
+    background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#video {
+    padding: 12em 0;
+    
+}
+
+iframe {
+    box-shadow: 10px 10px 20px rgb(94, 94, 94);
 }
