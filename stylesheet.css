@@ -57,6 +57,11 @@ footer {
 .terms {
     display: flex;
     justify-content: right;
+    
+}
+
+.terms, a, p {
+    display: inline-block;
 }
 
 
