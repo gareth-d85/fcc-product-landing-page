@@ -19,9 +19,12 @@
 #video {
     padding: 12em 0;
     
-}
+};
+
 
 iframe {
+    max-width: 560px;
+    max-height: 315px;
     box-shadow: 10px 10px 20px rgb(94, 94, 94);
 }
 
