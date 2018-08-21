@@ -84,6 +84,11 @@ iframe {
     margin-top: 0.75em;
 }
 
+.sub-button {
+    display: block;
+    margin: auto;
+}
+
 footer {
     background-color: #c1c1c1;
     padding: 1em 0;
