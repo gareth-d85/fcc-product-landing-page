@@ -16,16 +16,20 @@
     border-bottom: 1px solid #c1c1c1;
 }
 
+/* video */
+
 #video {
     padding: 12em 0;
-    max-height: 315px;
-    max-width: 560px;
+    /* max-height: 315px; */
+    /* max-width: 560px; */
 };
 
 
 iframe {
     box-shadow: 10px 10px 20px rgb(94, 94, 94);
 }
+
+/* info section */
 
 .info {
     margin-top: 8em;
@@ -90,6 +94,8 @@ iframe {
     display: block;
     margin: auto;
 }
+
+/* footer */
 
 footer {
     background-color: #c1c1c1;
