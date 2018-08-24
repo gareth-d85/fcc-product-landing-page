@@ -9,7 +9,7 @@
 
 
 .hero {
-    background: url(/img/jason-blackeye-295313-unsplash.jpg);
+    background: url(img/jason-blackeye-295313-unsplash.jpg);
     background-position: center;
 	background-size: cover;
     background-repeat: no-repeat;
@@ -20,13 +20,6 @@
 
 #video {
     padding: 12em 0;
-    /* max-height: 315px; */
-    /* max-width: 560px; */
-};
-
-
-iframe {
-    box-shadow: 10px 10px 20px rgb(94, 94, 94);
 }
 
 /* info section */
@@ -107,16 +100,13 @@ footer a {
 }
 
 
-
-
-
-
-
-
-
-
 /* Media queries */
-/* when screen is at 766px need to sort of video snapping to the left  */
+
+@media (max-width: 992px) {
+    .box {
+        margin-bottom: 2em;
+    }
+}
 
 
 
