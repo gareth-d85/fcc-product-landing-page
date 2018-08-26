@@ -1,3 +1,4 @@
+
 #navbarNav {
     justify-content: flex-end;
 }
@@ -5,7 +6,6 @@
 #navbarNav a  {
     padding-right: 30px;
 }
-
 
 .hero {
     background: url(img/jason-blackeye-295313-unsplash.jpg);
@@ -76,7 +76,7 @@
     text-align: center;
 }
 
-.subscribe button {
+.subscribe .button {
     display: block;
     margin: auto;
     margin-top: 0.75em;
