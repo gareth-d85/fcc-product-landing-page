@@ -1,6 +1,5 @@
 #navbarNav {
-    justify-content: right;
-
+    justify-content: flex-end;
 }
 
 #navbarNav a  {
@@ -18,7 +17,7 @@
 
 /* video */
 
-#video {
+.video {
     padding: 12em 0;
 }
 
