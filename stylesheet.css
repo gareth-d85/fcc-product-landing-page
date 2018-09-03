@@ -36,12 +36,24 @@
     margin: auto;
 }
 
-.subscripton {
+.info-box h4 {
+    text-align: center;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+
+.kits {
     border-top: 1px solid #c1c1c1;
     padding-top: 5.5em;
 }
 
-.subscripton > h4 {
+.kits > h4 {
     text-align: center;
     padding-bottom: 2em;
 }
@@ -55,19 +67,19 @@
     max-width: 315px;
 }
 
-.subscribe {
+.newsletter {
     border: 1px solid gray;
     border-radius: 5px;
     margin-top: 8em;
     margin-bottom: 4em;
 }
 
-.subscribe > h4 {
+.newsletter > h4 {
     padding-top: 2em;
     text-align: center;
 }
 
-.subscribe p {
+.newsletter p {
     text-align: center;
 }
 
@@ -75,7 +87,7 @@
     text-align: center;
 }
 
-.subscribe .button {
+.newsletter .button {
     display: block;
     margin: auto;
     margin-top: 0.75em;
